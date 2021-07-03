@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 git commit --amend -m 提交 ：修复提价，在不追加新版本的情况，将本次修改的commit追加到上一次的提交中
  
+=======
+git commit --amend -m 提交
+修复提价，在不追加新版本的情况，将本次修改的commit追加到上一次的提交中
+>>>>>>> f365989abe4a137c43cfc7fd9ee337e82e5f5663
